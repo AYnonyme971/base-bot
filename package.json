@@ -1,0 +1,14 @@
+{
+  "name": "bunvibersity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "AYnonyme",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
